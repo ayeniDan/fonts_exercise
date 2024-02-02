@@ -1,0 +1,25 @@
+h1 {
+	font-size: 60px;
+	text-align: center;
+	font-family: montserrat, sans-serif;
+}
+
+h2 {
+	font-style: italic;
+	font-size: 50px;
+	color: #af01f2;
+	font-size: 35px;
+}
+
+h3 {
+	font-family: autography, cursive;
+	color: rgb(253, 22, 242);
+	font-size: 35px;
+}
+
+p {
+	font-weight: 100;
+	font-size: 40px;
+	line-height: 2;
+	letter-spacing: 10px;
+}
